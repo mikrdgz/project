@@ -67,6 +67,7 @@ nav ul {
 .login {
   display: flex;
   align-items: center;
+  padding-left: 1rem;
 }
 
 .login p
