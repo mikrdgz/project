@@ -2,7 +2,6 @@ html {
   font-family: "Helvetica";
   font-size: 14px;
   color: black;
-  list-style-type: none !important;
 
 }
 
@@ -33,6 +32,8 @@ h2 {
 
 .topnav ul {
   display: flex;
+    list-style-type: none !important;
+
 }
 
 .topnav li{
@@ -43,6 +44,8 @@ h2 {
 {
   .topnav ul {
     display: none;
+      list-style-type: none !important;
+
   }
 
   .topnav {
@@ -176,4 +179,6 @@ footer {
   line-height: 1.8rem;
   height: 15rem;
   column-count: 2;
+    list-style-type: none !important;
+
 }
