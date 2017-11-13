@@ -133,6 +133,13 @@ nav ul {
   width: 25rem;
 }
 
+@media only screen and (max-width: 800px)
+{
+  .ninja img {
+    display: none;
+  }
+}
+
 .maintwo {
   display: flex;
   justify-content: center;
