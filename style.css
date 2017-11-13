@@ -53,6 +53,10 @@ nav ul {
   .topnav ul {
     display: none;
   }
+    .login p {
+    display: none;
+  }
+}
 }
 
   .start {
