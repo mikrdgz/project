@@ -12,6 +12,10 @@ h2 {
   font-weight: bold;
 }
 
+nav ul {
+    list-style-type: none;
+}
+
 .topnav {
   display: flex;
   color: #6d6e7a;
@@ -22,6 +26,7 @@ h2 {
   height: 6rem;
   z-index: 5;
   background-color: white;
+  top: 0;
 
 }
 
