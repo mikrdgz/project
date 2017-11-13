@@ -107,6 +107,14 @@ nav ul {
   width: 35rem;
 }
 
+@media only screen and (max-width: 800px)
+  {
+    .maintext{ 
+height:15rem;
+width: 25rem;
+    }
+}
+
 .begin {
   background-color: #4b71fc;
   border-radius: 30px;
