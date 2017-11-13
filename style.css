@@ -2,6 +2,8 @@ html {
   font-family: "Helvetica";
   font-size: 14px;
   color: black;
+  list-style-type: none !important;
+
 }
 
 h1 {
