@@ -43,15 +43,17 @@ nav ul {
   padding: .8rem;
 }
 
+
+  .topnav {
+    justify-content: center;
+  }
+
 @media only screen and (max-width: 800px)
 {
   .topnav ul {
     display: none;
   }
-
-  .topnav {
-    justify-content: center;
-  }
+}
 
   .start {
     display: none;
@@ -171,7 +173,7 @@ nav ul {
 { .who {
   flex-wrap: wrap;
   display: flex;
-
+  
  }
 
  .maintwo {
