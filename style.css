@@ -91,6 +91,12 @@ nav ul {
 
 }
 
+@media only screen and (max-width: 800px)
+  { .container {
+    height: 60rem;
+    }
+}
+
 .maintext {
   position: relative;
   top: 30%;
