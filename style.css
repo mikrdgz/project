@@ -113,7 +113,6 @@ nav ul {
   border-radius: 30px;
   color: white;
   padding: .8rem 3rem;
-  border-bottom: 5rem;
 }
 
 .begin:hover {
@@ -148,6 +147,7 @@ nav ul {
   justify-content: center;
   height: 20rem;
   width: 70rem;
+  padding-top: 5rem;
 
 }
 
