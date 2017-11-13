@@ -20,7 +20,7 @@ h2 {
   width: 100%;
   justify-content: space-around;
   height: 6rem;
-  z-index: 10;
+  z-index: 5;
   background-color: white;
 
 }
@@ -175,12 +175,14 @@ footer {
   height: 20rem;
   width: 100%;
   color: white;
-  list-style-type: none;
+  list-style-type: none !important;
 
 }
 
 .title {
   color: #86848c;
+  list-style-type: none;
+
 }
 
 .cont1 {
