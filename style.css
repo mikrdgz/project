@@ -215,6 +215,13 @@ footer {
 
 }
 
+@media only screen and (max-width: 800px)
+{ 
+  .title {
+    text-align: center;
+  }
+}
+
 .cont1 {
   line-height: 1.8rem;
   height: 15rem;
