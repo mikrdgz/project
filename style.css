@@ -145,9 +145,9 @@ nav ul {
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  height: 20rem;
+  height: 30rem;
   width: 70rem;
-  padding-top: 3rem;
+  padding-top: 2rem;
 
 }
 
