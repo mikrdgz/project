@@ -218,7 +218,7 @@ footer {
 @media only screen and (max-width: 800px)
 { 
   .title {
-    text-align: center;
+    padding-left: 1rem;
   }
 }
 
