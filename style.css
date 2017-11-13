@@ -52,6 +52,10 @@ nav ul {
     display: none;
 
   }
+  
+    .topnav {
+    justify-content: center;
+  }
 
   .login p {
     display: none;
